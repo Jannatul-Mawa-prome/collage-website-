@@ -1,0 +1,40 @@
+.box{
+	height: 100px;
+	width:300px;
+	border: 1px solid black;
+	float: left;
+}
+.big-box{
+	height: 300px;
+	width:300px;
+	border: 1px solid black;
+	overflow: hidden;
+	float: right;
+}
+.container{
+	width:700px;
+}
+.resizeable{
+	border:1px solid black;
+}
+.selectable li{
+	background-color:orange;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.slider{
+	margin-bottom: 20px;
+	width:40%;
+}
+.box2{
+	height: 100px;
+	width: 200px;
+	border: 1px solid black;
+}
